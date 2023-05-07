@@ -9,7 +9,7 @@
     margin: 20px auto;
     width: 428px;
     border: solid 1px #333;
-    background: #efefef;
+    background: white;
     border-radius: 10px;
 }
 
@@ -21,11 +21,28 @@
         padding-right: 20px;
 }
 
+
+
 article {
     grid-column: 1/-1;
+    font-family: 'Abril Fatface', cursive;
 }
 
 img {
     margin-top: 20px;
     margin-bottom: 30px;
+}
+
+header{
+    font-family: 'Akronim', cursive; 
+    text-align: center;
+    font-size: 80px;
+    color: red;
+    letter-spacing: 20px;
+   
+}
+
+h3 {
+    font-family: 'Knewave', ;
+    margin-top: 5px;
 }
